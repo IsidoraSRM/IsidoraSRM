@@ -1,4 +1,4 @@
-# Hello! I´m Isidora Reveco 👋
+# Hello! I´m Isidora Reveco 👋 
 
 💻 Computer Science Engineering student at Universidad de Santiago de Chile.<br>
 🌱 Passionate about Software Engineering.<br>
